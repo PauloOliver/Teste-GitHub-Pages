@@ -1,0 +1,23 @@
+h1 {
+    color: blue;
+    background-color: white;
+  }
+  .titulo{
+      color: rgb(255, 25, 163);
+      background-color: black;
+  }
+  body{ 
+    background-color: rgb(255, 139, 255);
+    font-family: Arial, sans-serif;
+  }
+
+  p {
+    color: gray;
+  }
+  a {
+      text-decoration: none;
+      color: white;
+  }
+  #login{
+      width: 500px;
+  }
